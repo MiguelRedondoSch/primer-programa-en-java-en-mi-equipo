@@ -3,5 +3,6 @@ public class Prueba{
     {
         System.out.println("Redondo García");
         System.out.println("Tengo 17 años, nací en 2005");
+        System.out.println("Me gusta los espaguetis");
     }
 }
